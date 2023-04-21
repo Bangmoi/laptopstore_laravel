@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+body .main-menu > li > a {
+    font-family: 'Roboto', sans-serif !important;
+}
+.ltext-102{
+    font-family: 'Roboto', sans-serif !important;
+}
+.stext-102{
+    font-family: 'Roboto', sans-serif !important;
+}
